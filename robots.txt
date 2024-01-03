@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+
+Sitemap: https://e-commerce.taliferro.com/sitemap.xml
