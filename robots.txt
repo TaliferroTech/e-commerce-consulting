@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
+Disallow: /index-work.html
 
 
 Sitemap: https://e-commerce.taliferro.com/sitemap.xml
